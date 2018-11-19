@@ -1,9 +1,15 @@
 # Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes
 Sample datasets for scene text detection and recognition as described in the paper https://arxiv.org/abs/1807.03021
 
+Detection:
+
 1K: https://www.dropbox.com/s/5hirb8eal44ek4d/1K.tar.gz?dl=0
 
 10K: https://www.dropbox.com/s/fu49xa4vqxhtrwm/10K.tar.gz?dl=0
+
+Recognition:
+
+1M: https://www.dropbox.com/s/7tgvrrp9p2u628r/1M.tar.gz?dl=0
 
 The code and larger datasets will be released later.
 
